@@ -1,0 +1,29 @@
+hooks:
+  pre-commit:
+    actions:
+      - name: format
+        cmd: gofumpt -w -extra ./..
+      - name: lint
+        cmd: golangci-lint run ./...
+      - name: test
+        cmd: go test ./...
+  commit-msg:
+    actions:
+      - name: conventional-commit
+        cmd: |-
+          msg_file="$1"
+          # join types with | to form regex ORs
+          r_types="(build|chore|ci|docs|feat|fix|perf|refactor|revert|style|test)"
+          # optional (scope)
+          r_scope="(\([[:alnum:] \/-]+\))?"
+          # optional breaking change indicator and colon delimiter
+          r_delim='!?:'
+          # subject line, body, footer
+          r_subject=" [[:print:]].+"
+          # the full regex pattern
+          pattern="^$r_types$r_scope$r_delim$r_subject$"
+          if grep -Eq "$pattern" "$msg_file"; then
+            exit 0
+          fi
+          echo "Please follow the conventional commit message format."
+          exit 1

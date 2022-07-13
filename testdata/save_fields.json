@@ -1,0 +1,2849 @@
+{
+  "AllowAnalyticsTracking": false,
+  "AllowPersonalAnalyticsTracking": false,
+  "AnonymousID": "6833892220213240932031371441448188329511420918572",
+  "BackupSaveIndex": 2,
+  "CampaignSave": {
+    "CompletedCampaigns": [
+      "bf000bff5172aa41a7634b81e6306584",
+      "0dc65790014f5345b73f961382f619ca",
+      "1dc1352bd20460449a898c1664c7461e",
+      "2702ad8a0608bc46b66e2d349a60e0ab",
+      "a3e018f328a8184186cb446466ae7a1d",
+      "d352b037526fa84d8c31b6a069b7777f",
+      "21bbcd785467d041aba4bae3fe787fc2"
+    ]
+  },
+  "CharacterSaves": [
+    {
+      "CharacterClass": "None",
+      "HasCompletedRetirementCampaign": false,
+      "HasSeenRetirementRewardScreen": false,
+      "Loadout": {
+        "Armor": "00000000000000000000000000000000",
+        "ClassTool": "00000000000000000000000000000000",
+        "Flare": "00000000000000000000000000000000",
+        "Grenade": "00000000000000000000000000000000",
+        "MiningTool": "00000000000000000000000000000000",
+        "PrimaryWeapon": "00000000000000000000000000000000",
+        "SecondaryWeapon": "00000000000000000000000000000000",
+        "TraversalTool": "00000000000000000000000000000000",
+        "iconIndex": 0
+      },
+      "Loadouts": [
+        {
+          "Armor": "bafb38aedabbcc44964a63d48934a704",
+          "ClassTool": "00000000000000000000000000000000",
+          "Flare": "00000000000000000000000000000000",
+          "Grenade": "00000000000000000000000000000000",
+          "MiningTool": "7925302575ca7c44996b0e271ff13754",
+          "PrimaryWeapon": "91fb7410e53fb64ebac7558e2c415e58",
+          "SecondaryWeapon": "9d772549a4b54045a1377f38795655c1",
+          "TraversalTool": "5e79cff9cfb1c64690b306321d5f0290",
+          "iconIndex": 0
+        }
+      ],
+      "RetiredCharacterLevels": 0,
+      "SavegameID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+      "SelectedLoadout": 0,
+      "TimesRetired": 0,
+      "Vanity": {
+        "Loadouts": [
+          {
+            "EquippedArmorItemID": "cb8f03554a8fbe4aa6cc0d00f0c9c26a",
+            "EquippedArmorMaterialID": "dcdfa7dc7fdb3f49a3dbc18798f8097e",
+            "EquippedBeardColorItemID": "086c7eba161e5342a607cb89e9bdde25",
+            "EquippedBeardItemID": "e44fb5896f04c240abef9349ec8d0b3c",
+            "EquippedEyebrowsItemID": "be6e3ed4fd68eb4bb5549dbf87b7ef3e",
+            "EquippedHeadItemID": "9a7ad565128b0b43973593e4799f7180",
+            "EquippedMoustacheItemID": "d0b06a3c8618d14ba651ef02e1f0e81e",
+            "EquippedSideburnsItemID": "eed7e0ad9a1d1f429dd5a3ebd8ea99b4",
+            "EquippedSkinColorItemID": "acdab7ef49d84c4ebe3626c9c3bc13d7"
+          }
+        ],
+        "NewVanityItems": {},
+        "UnLockedVanityItemIDs": [
+          "f33fb9ad9699db49bc73178886ff0d06",
+          "9cf6a4ead8a6584da23b51bed4b5cd20",
+          "b2c7ff0a48ce2e4e872834aa62f181c7",
+          "d6f8821b9a273c489f577deb4462c0a2",
+          "6d6fd96b8a841049aa9cf95220692246",
+          "c989f700e5dd86438a8cdc4c7a645143",
+          "50608a6b3f59c14fb9bfe787b5d59c06",
+          "eb884ccb106ba5468c45d8cc6e5ecf89",
+          "496e73679e73444cb665c03eb9a5d1d3",
+          "cdafeee41b809f458f9e2bc4e84c9aa9"
+        ],
+        "UnLockedVanityItems": []
+      },
+      "VictoryPose": {
+        "EquippedVictoryPose": "7ada3da616716c4a8fc47c186c46028c",
+        "EquippedVictoryPoses": [
+          "7ada3da616716c4a8fc47c186c46028c"
+        ],
+        "UnlockedVictoryPoses": []
+      },
+      "XP": 6093
+    },
+    {
+      "CharacterClass": "None",
+      "HasCompletedRetirementCampaign": false,
+      "HasSeenRetirementRewardScreen": false,
+      "Loadout": {
+        "Armor": "00000000000000000000000000000000",
+        "ClassTool": "00000000000000000000000000000000",
+        "Flare": "00000000000000000000000000000000",
+        "Grenade": "00000000000000000000000000000000",
+        "MiningTool": "00000000000000000000000000000000",
+        "PrimaryWeapon": "00000000000000000000000000000000",
+        "SecondaryWeapon": "00000000000000000000000000000000",
+        "TraversalTool": "00000000000000000000000000000000",
+        "iconIndex": 0
+      },
+      "Loadouts": [
+        {
+          "Armor": "00000000000000000000000000000000",
+          "ClassTool": "00000000000000000000000000000000",
+          "Flare": "00000000000000000000000000000000",
+          "Grenade": "00000000000000000000000000000000",
+          "MiningTool": "00000000000000000000000000000000",
+          "PrimaryWeapon": "b66739f359a40443b70d9bacf8aa2d39",
+          "SecondaryWeapon": "501a4f4ccc24cb42b0287f2af9ae120d",
+          "TraversalTool": "00000000000000000000000000000000",
+          "iconIndex": 0
+        }
+      ],
+      "RetiredCharacterLevels": 0,
+      "SavegameID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+      "SelectedLoadout": 0,
+      "TimesRetired": 0,
+      "Vanity": {
+        "Loadouts": [
+          {
+            "EquippedArmorItemID": "00000000000000000000000000000000",
+            "EquippedArmorMaterialID": "0b7f5f735f584745bbbcf5e215a050fa",
+            "EquippedBeardColorItemID": "00000000000000000000000000000000",
+            "EquippedBeardItemID": "00000000000000000000000000000000",
+            "EquippedEyebrowsItemID": "00000000000000000000000000000000",
+            "EquippedHeadItemID": "00000000000000000000000000000000",
+            "EquippedMoustacheItemID": "00000000000000000000000000000000",
+            "EquippedSideburnsItemID": "00000000000000000000000000000000",
+            "EquippedSkinColorItemID": "00000000000000000000000000000000"
+          }
+        ],
+        "NewVanityItems": {},
+        "UnLockedVanityItemIDs": [
+          "f33fb9ad9699db49bc73178886ff0d06",
+          "9cf6a4ead8a6584da23b51bed4b5cd20",
+          "b2c7ff0a48ce2e4e872834aa62f181c7",
+          "d6f8821b9a273c489f577deb4462c0a2",
+          "6d6fd96b8a841049aa9cf95220692246",
+          "c989f700e5dd86438a8cdc4c7a645143",
+          "50608a6b3f59c14fb9bfe787b5d59c06",
+          "eb884ccb106ba5468c45d8cc6e5ecf89",
+          "496e73679e73444cb665c03eb9a5d1d3",
+          "cdafeee41b809f458f9e2bc4e84c9aa9",
+          "0b7f5f735f584745bbbcf5e215a050fa"
+        ],
+        "UnLockedVanityItems": []
+      },
+      "VictoryPose": {
+        "EquippedVictoryPose": "7ada3da616716c4a8fc47c186c46028c",
+        "EquippedVictoryPoses": [
+          "7ada3da616716c4a8fc47c186c46028c"
+        ],
+        "UnlockedVictoryPoses": []
+      },
+      "XP": 0
+    },
+    {
+      "CharacterClass": "None",
+      "HasCompletedRetirementCampaign": false,
+      "HasSeenRetirementRewardScreen": false,
+      "Loadout": {
+        "Armor": "00000000000000000000000000000000",
+        "ClassTool": "00000000000000000000000000000000",
+        "Flare": "00000000000000000000000000000000",
+        "Grenade": "00000000000000000000000000000000",
+        "MiningTool": "00000000000000000000000000000000",
+        "PrimaryWeapon": "00000000000000000000000000000000",
+        "SecondaryWeapon": "00000000000000000000000000000000",
+        "TraversalTool": "00000000000000000000000000000000",
+        "iconIndex": 0
+      },
+      "Loadouts": [
+        {
+          "Armor": "00000000000000000000000000000000",
+          "ClassTool": "00000000000000000000000000000000",
+          "Flare": "00000000000000000000000000000000",
+          "Grenade": "00000000000000000000000000000000",
+          "MiningTool": "00000000000000000000000000000000",
+          "PrimaryWeapon": "df573b09420b2e408bce3ab9d36542f8",
+          "SecondaryWeapon": "d8a5f7f6bd131d45acbd2cfe7e5416cc",
+          "TraversalTool": "00000000000000000000000000000000",
+          "iconIndex": 0
+        }
+      ],
+      "RetiredCharacterLevels": 0,
+      "SavegameID": "ae56e180fec0c44d96fa29c28366b97b",
+      "SelectedLoadout": 0,
+      "TimesRetired": 0,
+      "Vanity": {
+        "Loadouts": [
+          {
+            "EquippedArmorItemID": "00000000000000000000000000000000",
+            "EquippedArmorMaterialID": "00000000000000000000000000000000",
+            "EquippedBeardColorItemID": "00000000000000000000000000000000",
+            "EquippedBeardItemID": "00000000000000000000000000000000",
+            "EquippedEyebrowsItemID": "00000000000000000000000000000000",
+            "EquippedHeadItemID": "00000000000000000000000000000000",
+            "EquippedMoustacheItemID": "00000000000000000000000000000000",
+            "EquippedSideburnsItemID": "00000000000000000000000000000000",
+            "EquippedSkinColorItemID": "00000000000000000000000000000000"
+          }
+        ],
+        "NewVanityItems": {},
+        "UnLockedVanityItemIDs": [
+          "f33fb9ad9699db49bc73178886ff0d06",
+          "9cf6a4ead8a6584da23b51bed4b5cd20",
+          "b2c7ff0a48ce2e4e872834aa62f181c7",
+          "d6f8821b9a273c489f577deb4462c0a2",
+          "6d6fd96b8a841049aa9cf95220692246",
+          "c989f700e5dd86438a8cdc4c7a645143",
+          "50608a6b3f59c14fb9bfe787b5d59c06",
+          "eb884ccb106ba5468c45d8cc6e5ecf89",
+          "496e73679e73444cb665c03eb9a5d1d3",
+          "cdafeee41b809f458f9e2bc4e84c9aa9"
+        ],
+        "UnLockedVanityItems": []
+      },
+      "VictoryPose": {
+        "EquippedVictoryPose": "7ada3da616716c4a8fc47c186c46028c",
+        "EquippedVictoryPoses": [
+          "7ada3da616716c4a8fc47c186c46028c"
+        ],
+        "UnlockedVictoryPoses": []
+      },
+      "XP": 1066
+    },
+    {
+      "CharacterClass": "None",
+      "HasCompletedRetirementCampaign": false,
+      "HasSeenRetirementRewardScreen": false,
+      "Loadout": {
+        "Armor": "00000000000000000000000000000000",
+        "ClassTool": "00000000000000000000000000000000",
+        "Flare": "00000000000000000000000000000000",
+        "Grenade": "00000000000000000000000000000000",
+        "MiningTool": "00000000000000000000000000000000",
+        "PrimaryWeapon": "00000000000000000000000000000000",
+        "SecondaryWeapon": "00000000000000000000000000000000",
+        "TraversalTool": "00000000000000000000000000000000",
+        "iconIndex": 0
+      },
+      "Loadouts": [
+        {
+          "Armor": "d8eccaec761d91438843cbe741f1c5a1",
+          "ClassTool": "c6e5c1b3dd407342a8ffb33689cb76af",
+          "Flare": "9a1e620811411846b2bad58dbd3b4254",
+          "Grenade": "2aa90f5f8d95cd478f2634c3525fc022",
+          "MiningTool": "aa45db930ea49142bb54e09a8390e456",
+          "PrimaryWeapon": "3df53ab5b7f66048b686f785f634e5a4",
+          "SecondaryWeapon": "9736ee110d4c8749a224af6f2dba0160",
+          "TraversalTool": "28b6e45773678846aa049827b9e033e1",
+          "iconIndex": 0
+        },
+        {
+          "Armor": "00000000000000000000000000000000",
+          "ClassTool": "00000000000000000000000000000000",
+          "Flare": "00000000000000000000000000000000",
+          "Grenade": "00000000000000000000000000000000",
+          "MiningTool": "00000000000000000000000000000000",
+          "PrimaryWeapon": "00000000000000000000000000000000",
+          "SecondaryWeapon": "00000000000000000000000000000000",
+          "TraversalTool": "00000000000000000000000000000000",
+          "iconIndex": 0
+        }
+      ],
+      "RetiredCharacterLevels": 0,
+      "SavegameID": "30d8ea17d8fbba4c95306de9655c2f8c",
+      "SelectedLoadout": 0,
+      "TimesRetired": 0,
+      "Vanity": {
+        "Loadouts": [
+          {
+            "EquippedArmorItemID": "46a93fc8ba8f634597c9f83912566ad3",
+            "EquippedArmorMaterialID": "496e73679e73444cb665c03eb9a5d1d3",
+            "EquippedBeardColorItemID": "00000000000000000000000000000000",
+            "EquippedBeardItemID": "6d6fd96b8a841049aa9cf95220692246",
+            "EquippedEyebrowsItemID": "00000000000000000000000000000000",
+            "EquippedHeadItemID": "cdafeee41b809f458f9e2bc4e84c9aa9",
+            "EquippedMoustacheItemID": "e3e51b9e0ebb97429d90844244ede92a",
+            "EquippedSideburnsItemID": "00000000000000000000000000000000",
+            "EquippedSkinColorItemID": "00000000000000000000000000000000"
+          },
+          {
+            "EquippedArmorItemID": "00000000000000000000000000000000",
+            "EquippedArmorMaterialID": "00000000000000000000000000000000",
+            "EquippedBeardColorItemID": "00000000000000000000000000000000",
+            "EquippedBeardItemID": "00000000000000000000000000000000",
+            "EquippedEyebrowsItemID": "00000000000000000000000000000000",
+            "EquippedHeadItemID": "00000000000000000000000000000000",
+            "EquippedMoustacheItemID": "00000000000000000000000000000000",
+            "EquippedSideburnsItemID": "00000000000000000000000000000000",
+            "EquippedSkinColorItemID": "00000000000000000000000000000000"
+          }
+        ],
+        "NewVanityItems": {},
+        "UnLockedVanityItemIDs": [
+          "f33fb9ad9699db49bc73178886ff0d06",
+          "9cf6a4ead8a6584da23b51bed4b5cd20",
+          "b2c7ff0a48ce2e4e872834aa62f181c7",
+          "d6f8821b9a273c489f577deb4462c0a2",
+          "6d6fd96b8a841049aa9cf95220692246",
+          "e3e51b9e0ebb97429d90844244ede92a",
+          "46a93fc8ba8f634597c9f83912566ad3",
+          "c989f700e5dd86438a8cdc4c7a645143",
+          "50608a6b3f59c14fb9bfe787b5d59c06",
+          "eb884ccb106ba5468c45d8cc6e5ecf89",
+          "496e73679e73444cb665c03eb9a5d1d3",
+          "cdafeee41b809f458f9e2bc4e84c9aa9"
+        ],
+        "UnLockedVanityItems": []
+      },
+      "VictoryPose": {
+        "EquippedVictoryPose": "7ada3da616716c4a8fc47c186c46028c",
+        "EquippedVictoryPoses": [
+          "d58031a7521d81439d1833480e6e6ab2"
+        ],
+        "UnlockedVictoryPoses": [
+          "d58031a7521d81439d1833480e6e6ab2"
+        ]
+      },
+      "XP": 244086
+    },
+    {
+      "CharacterClass": "None",
+      "HasCompletedRetirementCampaign": false,
+      "HasSeenRetirementRewardScreen": false,
+      "Loadout": {
+        "Armor": "00000000000000000000000000000000",
+        "ClassTool": "00000000000000000000000000000000",
+        "Flare": "00000000000000000000000000000000",
+        "Grenade": "00000000000000000000000000000000",
+        "MiningTool": "00000000000000000000000000000000",
+        "PrimaryWeapon": "00000000000000000000000000000000",
+        "SecondaryWeapon": "00000000000000000000000000000000",
+        "TraversalTool": "00000000000000000000000000000000",
+        "iconIndex": 0
+      },
+      "Loadouts": [
+        {
+          "Armor": "00000000000000000000000000000000",
+          "ClassTool": "00000000000000000000000000000000",
+          "Flare": "00000000000000000000000000000000",
+          "Grenade": "00000000000000000000000000000000",
+          "MiningTool": "00000000000000000000000000000000",
+          "PrimaryWeapon": "d3af4b9e940fef41a7db46914463f084",
+          "SecondaryWeapon": "00000000000000000000000000000000",
+          "TraversalTool": "00000000000000000000000000000000",
+          "iconIndex": 0
+        }
+      ],
+      "RetiredCharacterLevels": 0,
+      "SavegameID": "6e68d5d66fe647458ecec5462768b128",
+      "SelectedLoadout": 0,
+      "TimesRetired": 0,
+      "Vanity": {
+        "Loadouts": [
+          {
+            "EquippedArmorItemID": "00000000000000000000000000000000",
+            "EquippedArmorMaterialID": "00000000000000000000000000000000",
+            "EquippedBeardColorItemID": "00000000000000000000000000000000",
+            "EquippedBeardItemID": "00000000000000000000000000000000",
+            "EquippedEyebrowsItemID": "00000000000000000000000000000000",
+            "EquippedHeadItemID": "00000000000000000000000000000000",
+            "EquippedMoustacheItemID": "00000000000000000000000000000000",
+            "EquippedSideburnsItemID": "00000000000000000000000000000000",
+            "EquippedSkinColorItemID": "00000000000000000000000000000000"
+          }
+        ],
+        "NewVanityItems": {},
+        "UnLockedVanityItemIDs": [],
+        "UnLockedVanityItems": []
+      },
+      "VictoryPose": {
+        "EquippedVictoryPose": "7ada3da616716c4a8fc47c186c46028c",
+        "EquippedVictoryPoses": [
+          "7ada3da616716c4a8fc47c186c46028c"
+        ],
+        "UnlockedVictoryPoses": []
+      },
+      "XP": 0
+    }
+  ],
+  "Credits": 6851,
+  "DeepDiveSave": {
+    "EliteSave": {
+      "Seed": -618633463
+    },
+    "NormalSave": {
+      "Seed": -618633463
+    }
+  },
+  "EnemiesKilled": {
+    "01550f25af17d847819cbaff3e04041e": 70,
+    "04aa53933b1e51409bf8ac77d578004f": 12,
+    "07856944ae39de4cb11c5ce9960e2b57": 1,
+    "0c097cfd470aa4439e1c423488187657": 49,
+    "0cfed2af9975f74c835d50013c7227ef": 0,
+    "0e0c573129b9fe4ea4b6fed378f7e724": 9,
+    "158220c9fa95d84b8bd0da5eaea2353b": 20,
+    "1cfd4591b4b9a44bad13fb985d5c874f": 0,
+    "226855d616038c4b8cad71fd698852a4": 2,
+    "28d45f97f002be4dafc260b10d5671cb": 38,
+    "34dd874517dd9541accb023ecbde8192": 85,
+    "38b030dd102f8d4f9f0de7b2630b8778": 2,
+    "395d2a3fe45220419e0b3aa013c65359": 1,
+    "3eae2745e684e1469b33a9ef8c09b484": 1,
+    "43bddadc5dcba442af3586ac3fb1b825": 4,
+    "46e85570c1ccf3498ba39071a50ad51b": 0,
+    "4745cb879e22ce40b67b0bf12b584f47": 12,
+    "475bbae0bb78b0478301eefba6cb62a1": 2,
+    "481284770880ff4db2263f218fe62be4": 318,
+    "494b324a254a974cbd9655e3d415b3cf": 0,
+    "49f477bed4be854f851c8e33f161e253": 64,
+    "547832d42f1f0744b226a0c62c0faaf3": 56,
+    "59a583263db6b442b2e3d27f3e83bcc3": 134,
+    "5bf871cb97a55a4a925f4340ac8c00c4": 2,
+    "5f55ef160b7d724aa08f6fa236eb1149": 93,
+    "602aecfdb948f040b4e6fccdd411d9db": 4,
+    "639801de2911c44f8df71d42bb5304fa": 2,
+    "655262f976696542b8dbdf83a058ff6d": 1,
+    "65cc85c1279b4e4aa65f6a680c9ac5fc": 0,
+    "6636e88887a3254592cf349063323a60": 3,
+    "6cafbad725b38e47ae4a0201b9f6d715": 11,
+    "7474f102a22e1b44b2e45e57a8e5b480": 1,
+    "7b816fb1dfda9f4cac12c9c4eddad468": 1,
+    "7ba04c4ce3fcec46b6c9b8cf42db3519": 7,
+    "846d93cbaf1e1041ae8815205f9b461c": 3,
+    "89d2f530a027d0468dbe1b8d39bd86b5": 74,
+    "8efc3fcec6b9b84995ce2d458ad190ee": 6,
+    "9e76b0c14f15ac41b105ee0501c5d9a2": 0,
+    "9f807c4ef85d304fb3eceb718f4b2912": 0,
+    "a115964b721e42419b0080d49f545801": 1,
+    "a1dc7b029fb44a42aa36f4e495fc2d1f": 37,
+    "a57e487e15d22543848802aaa726d5c0": 4,
+    "a7bfdaa1c557dc4bac6cee0ef10180ae": 8,
+    "ad24eec430601a4585928f2242203e71": 3,
+    "aff250f7f2f97e45844ed12aa04a9ed4": 110,
+    "b15f4de5358cdb4fae0200d750920b71": 1,
+    "b6a70effc2f2694e87d638399508dc6d": 2,
+    "bf19ec7874d62c44b53790c4140c38c1": 195,
+    "c344d2335adfda44991bcb21ce722069": 2,
+    "c70955f3f9e5eb40ae83fe9aa3ff8de5": 0,
+    "d805ddffa765a248a2554bc847912463": 59,
+    "dfdbfd7ef1e474408927407c4384e81a": 7,
+    "e1a402995b3c59409f7cfe188d3fc2e8": 0,
+    "e977bf0a42a9ed46a0d89c8d874adcff": 2314,
+    "e9b250ddc1d383448e61483eeeb024f9": 1,
+    "ec441b68bb60014481409a171f42ec51": 4,
+    "ef82128aa2abec43a194f212aa999033": 186,
+    "f08a03399d0ede4cb894a261d11ac13d": 5,
+    "f4d438e80b648d42b1cbf849dde4b381": 23
+  },
+  "EquippedPerkLoadouts": [
+    {
+      "CharacterPerks": [
+        {
+          "PerkIDs": [
+            "a55a06ce8632bd4d93314f690ae63bf8",
+            "70fd1cebe09c6749b6fc19f9284b9400",
+            "eb7a23f8cdc39d41b710827a4b685719"
+          ],
+          "characterID": "30d8ea17d8fbba4c95306de9655c2f8c"
+        },
+        {
+          "PerkIDs": [
+            "a55a06ce8632bd4d93314f690ae63bf8",
+            "1985f5de43f71e48814f81ce35579027",
+            "0dd8003bad5d634f8316b4b60d6f267f"
+          ],
+          "characterID": "9edd56f1eebcc5488d5b5e5b80b62db4"
+        }
+      ]
+    },
+    {
+      "CharacterPerks": []
+    }
+  ],
+  "ExternalBackupSaveIndex": 5,
+  "FSDEventRewardsSave": {
+    "EventsSeen": [
+      "af2717b41f16ba4faa2af86801fb522c"
+    ]
+  },
+  "FirstSession": false,
+  "HasClaimedSteamGroupLoot": false,
+  "HasCompletedTutorial": false,
+  "HasPlayedIntroMessage": false,
+  "HasPlayedTutorial": false,
+  "HaveSkinsBeenReset": false,
+  "ItemUINotifications": {},
+  "ItemUpgradeLoadouts": [
+    {
+      "Loadout": {
+        "02fd4ce2fff62d4bbfa17501592e887e": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "02fd4ce2fff62d4bbfa17501592e887e"
+        },
+        "0598b596016e324886832d1a6d62f981": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "0598b596016e324886832d1a6d62f981"
+        },
+        "1af31165bcb11c48a5a3d1a6ba5a3540": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [
+            "bf510980b965b540918aa0a29d8e052b",
+            "00000000000000000000000000000000"
+          ],
+          "EquippedUpgrades": [
+            "0cac865f2c08aa4abf47f90c720bf188",
+            "9954f1fa61935341811b12e7340e69cd",
+            "d9d2c784d075d44a9c0ef29b07744115",
+            "5b510fb5d413a9449199a572978effde",
+            "48bc3c32886cc646a34ee2cadcd7eacf"
+          ],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "1af31165bcb11c48a5a3d1a6ba5a3540"
+        },
+        "1c0dad8f715f344792602507542f0ce4": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "1c0dad8f715f344792602507542f0ce4"
+        },
+        "1f71df63fd9d9742a7c2debedbf3aee0": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "1f71df63fd9d9742a7c2debedbf3aee0"
+        },
+        "28b6e45773678846aa049827b9e033e1": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [
+            "98bcf352aae222448a5d6715d3b32cb7",
+            "49c5fc7823fb534abadd99b8b8abda3e",
+            "c123ed1651613d4290ae58c76d6307a5",
+            "ecff03434db6f14391fa32637a7acdc1"
+          ],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "28b6e45773678846aa049827b9e033e1"
+        },
+        "299fdb2466194e419c213eed4b50fa02": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "299fdb2466194e419c213eed4b50fa02"
+        },
+        "2aa90f5f8d95cd478f2634c3525fc022": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "2aa90f5f8d95cd478f2634c3525fc022"
+        },
+        "2bebc497a359fd4eb60e1847a1d9eb17": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "2bebc497a359fd4eb60e1847a1d9eb17"
+        },
+        "2c8a274a525c59419fa9ecd34f173d40": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "2c8a274a525c59419fa9ecd34f173d40"
+        },
+        "399f2c46ddb31c40af63cdc4dee06650": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "399f2c46ddb31c40af63cdc4dee06650"
+        },
+        "3df53ab5b7f66048b686f785f634e5a4": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [
+            "27237c20e6206d4e85e680a50edef7cc",
+            "61841f573417d644893ebe5cb03e22a3",
+            "e40e234df49961469dc032abb511b7a6",
+            "0455d6d1d13a1640a5bb547fc70f2dcd"
+          ],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "3df53ab5b7f66048b686f785f634e5a4"
+        },
+        "463f33d08830b241afc9e721eb11a71c": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "463f33d08830b241afc9e721eb11a71c"
+        },
+        "4bc1c19315de8147b648cb31505a3bdc": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "4bc1c19315de8147b648cb31505a3bdc"
+        },
+        "4e96f432d0182343a62e81d821a1480f": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "4e96f432d0182343a62e81d821a1480f"
+        },
+        "501a4f4ccc24cb42b0287f2af9ae120d": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "501a4f4ccc24cb42b0287f2af9ae120d"
+        },
+        "5126583ebc43484aae8a728bf836762c": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "5126583ebc43484aae8a728bf836762c"
+        },
+        "5533afc90915dc488d7e1714f4998cc0": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "5533afc90915dc488d7e1714f4998cc0"
+        },
+        "58e158d4d7a6f441bc2596106aef0026": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "58e158d4d7a6f441bc2596106aef0026"
+        },
+        "5e79cff9cfb1c64690b306321d5f0290": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "5e79cff9cfb1c64690b306321d5f0290"
+        },
+        "6127736830d9ed4684004378e5f0b450": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "6127736830d9ed4684004378e5f0b450"
+        },
+        "69e1fc2cf24ff645b8c8a915c81ba5ef": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "69e1fc2cf24ff645b8c8a915c81ba5ef"
+        },
+        "76e7d84f53f2db48b24bdfaa5dd5ed75": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "76e7d84f53f2db48b24bdfaa5dd5ed75"
+        },
+        "7925302575ca7c44996b0e271ff13754": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "7925302575ca7c44996b0e271ff13754"
+        },
+        "79e91bf15ac1694ba7987c696959c0d1": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [
+            "5cc9455a467c804c9269a457345b7255",
+            "d5b515bfe3d0264a9b9f2e2326f28a3e"
+          ],
+          "EquippedUpgrades": [
+            "88abba5714fc3e46881a81dba91dcbb9",
+            "09c581ee97c48b4e900795ce5cb2619c",
+            "e370554343213e4caab4a53e18882121",
+            "f7237cb9c186204ead1d8153763c1c29"
+          ],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "79e91bf15ac1694ba7987c696959c0d1"
+        },
+        "7f44cdaed7ac2f4f9d74e8db832e2ae5": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "7f44cdaed7ac2f4f9d74e8db832e2ae5"
+        },
+        "82082aab25319f43b43a8458f5228e8c": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "82082aab25319f43b43a8458f5228e8c"
+        },
+        "85bb7931df86dd4284ee2c5f189aa409": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "85bb7931df86dd4284ee2c5f189aa409"
+        },
+        "895756cb9017b0419d74c47ac45a16a5": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [
+            "b76a642dc74a9847a178c69d88fa3588",
+            "00af5279c969c248a5611617b246eadc"
+          ],
+          "EquippedUpgrades": [
+            "f16c53b85b604b4ab3ccf925b1dc5271",
+            "a6375330f9f8ba4b9abd3997a43d8a71",
+            "6c64b7e4d9cbb2479541c70718b9f34b",
+            "cff7e077fa41a14c9d3d592a87e86351",
+            "eaf82efc9382a74aa7d2c6b2af3540a9"
+          ],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "895756cb9017b0419d74c47ac45a16a5"
+        },
+        "8b5b46ab2d239540b09c1c542a07f5de": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "8b5b46ab2d239540b09c1c542a07f5de"
+        },
+        "91fb7410e53fb64ebac7558e2c415e58": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "91fb7410e53fb64ebac7558e2c415e58"
+        },
+        "9736ee110d4c8749a224af6f2dba0160": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [
+            "b76a642dc74a9847a178c69d88fa3588",
+            "a932e740b82fda4bbbbf08792284b833"
+          ],
+          "EquippedUpgrades": [
+            "414188ed6203004699b018445ee4293c",
+            "bc5aab0df902564cb45a66c94aac50b1",
+            "67832afcbe071e4bb32bc33740f078c7",
+            "0fd97b166264c246ac5bcbd1c6677224"
+          ],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "9736ee110d4c8749a224af6f2dba0160"
+        },
+        "9a1e620811411846b2bad58dbd3b4254": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "9a1e620811411846b2bad58dbd3b4254"
+        },
+        "9d772549a4b54045a1377f38795655c1": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [
+            "3476065fb3ce884d99bdd0c650f31848",
+            "00000000000000000000000000000000"
+          ],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "9d772549a4b54045a1377f38795655c1"
+        },
+        "a8d6873c0efa6645817351189a708eb0": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "a8d6873c0efa6645817351189a708eb0"
+        },
+        "aa45db930ea49142bb54e09a8390e456": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [
+            "00000000000000000000000000000000",
+            "549a4a51cafcb2418afa26e3b8eab15b",
+            "00000000000000000000000000000000",
+            "00000000000000000000000000000000",
+            "00000000000000000000000000000000",
+            "a950e551a4dbe34197d60478b7e3d77f",
+            "00000000000000000000000000000000"
+          ],
+          "EquippedUpgrades": [
+            "4772aff82906f04c9eb8fa3ac23b9986",
+            "1e1db108fd65a145914b31253f8d5153"
+          ],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "aa45db930ea49142bb54e09a8390e456"
+        },
+        "b66739f359a40443b70d9bacf8aa2d39": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "b66739f359a40443b70d9bacf8aa2d39"
+        },
+        "bafb38aedabbcc44964a63d48934a704": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [
+            "59ef40192ea903438e4752d3ff2c63b5"
+          ],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "bafb38aedabbcc44964a63d48934a704"
+        },
+        "c35fdfe15ee4284e8beb537630fcc5e4": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "c35fdfe15ee4284e8beb537630fcc5e4"
+        },
+        "c6e5c1b3dd407342a8ffb33689cb76af": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [
+            "57e736aa7fd7434d9fc65c582c804dc5",
+            "2891d558b54f1f4b8ffc797aa93923ea",
+            "c229a9918d7f3a4487b17ef554c0dcaf"
+          ],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "c6e5c1b3dd407342a8ffb33689cb76af"
+        },
+        "d3af4b9e940fef41a7db46914463f084": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [
+            "a3bc5291b3b1074dac2c204d57eaf7b8",
+            "3e198ae6cb38964498b667add65d972e"
+          ],
+          "EquippedUpgrades": [
+            "0a38524a782a1e4eb937cd4f7250dc97",
+            "c828ad05f868754ebc4fa53df3063725",
+            "aec1d2b63112864d857db0d4c59530e1",
+            "78b770fc24ebae4c9486a696c857f32f",
+            "792d2e605e903b4dbb3661d45dbdc568"
+          ],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "d3af4b9e940fef41a7db46914463f084"
+        },
+        "d50ed51e6d6e3a45b6788cdabaead317": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "d50ed51e6d6e3a45b6788cdabaead317"
+        },
+        "d8a5f7f6bd131d45acbd2cfe7e5416cc": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "d8a5f7f6bd131d45acbd2cfe7e5416cc"
+        },
+        "d8eccaec761d91438843cbe741f1c5a1": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [
+            "cbc3c2af07e2e043b7463ac2f0d0ef89",
+            "02aa9aa2df864845bf4847b6e410df40",
+            "159c06093f6f86449d6c566edeb6631d",
+            "15623f5d01e49949b5d86c1305bafb2c"
+          ],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [
+            "6b5469ec74d3c746a73493677b75280b"
+          ],
+          "WeaponID": "d8eccaec761d91438843cbe741f1c5a1"
+        },
+        "df573b09420b2e408bce3ab9d36542f8": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "df573b09420b2e408bce3ab9d36542f8"
+        },
+        "f1985b1c74c1a548b789b8ac8517fe4e": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "f1985b1c74c1a548b789b8ac8517fe4e"
+        },
+        "f42fdad631785842abce22c7733054b9": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "f42fdad631785842abce22c7733054b9"
+        },
+        "fde1cbb0b68a5b43be971d83db95c3d9": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "fde1cbb0b68a5b43be971d83db95c3d9"
+        },
+        "fe610dd71468e9459d977d3c90ac8e34": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "fe610dd71468e9459d977d3c90ac8e34"
+        }
+      }
+    },
+    {
+      "Loadout": {
+        "0598b596016e324886832d1a6d62f981": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "0598b596016e324886832d1a6d62f981"
+        },
+        "1af31165bcb11c48a5a3d1a6ba5a3540": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "1af31165bcb11c48a5a3d1a6ba5a3540"
+        },
+        "1f71df63fd9d9742a7c2debedbf3aee0": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "1f71df63fd9d9742a7c2debedbf3aee0"
+        },
+        "28b6e45773678846aa049827b9e033e1": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [
+            "98bcf352aae222448a5d6715d3b32cb7",
+            "49c5fc7823fb534abadd99b8b8abda3e"
+          ],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "28b6e45773678846aa049827b9e033e1"
+        },
+        "2aa90f5f8d95cd478f2634c3525fc022": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "2aa90f5f8d95cd478f2634c3525fc022"
+        },
+        "463f33d08830b241afc9e721eb11a71c": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "463f33d08830b241afc9e721eb11a71c"
+        },
+        "4bc1c19315de8147b648cb31505a3bdc": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "4bc1c19315de8147b648cb31505a3bdc"
+        },
+        "5126583ebc43484aae8a728bf836762c": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "5126583ebc43484aae8a728bf836762c"
+        },
+        "5533afc90915dc488d7e1714f4998cc0": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "5533afc90915dc488d7e1714f4998cc0"
+        },
+        "58e158d4d7a6f441bc2596106aef0026": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "58e158d4d7a6f441bc2596106aef0026"
+        },
+        "7925302575ca7c44996b0e271ff13754": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "7925302575ca7c44996b0e271ff13754"
+        },
+        "7f44cdaed7ac2f4f9d74e8db832e2ae5": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "7f44cdaed7ac2f4f9d74e8db832e2ae5"
+        },
+        "895756cb9017b0419d74c47ac45a16a5": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "895756cb9017b0419d74c47ac45a16a5"
+        },
+        "8b5b46ab2d239540b09c1c542a07f5de": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "8b5b46ab2d239540b09c1c542a07f5de"
+        },
+        "91fb7410e53fb64ebac7558e2c415e58": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "91fb7410e53fb64ebac7558e2c415e58"
+        },
+        "9736ee110d4c8749a224af6f2dba0160": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "9736ee110d4c8749a224af6f2dba0160"
+        },
+        "9a1e620811411846b2bad58dbd3b4254": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "9a1e620811411846b2bad58dbd3b4254"
+        },
+        "a8d6873c0efa6645817351189a708eb0": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "a8d6873c0efa6645817351189a708eb0"
+        },
+        "aa45db930ea49142bb54e09a8390e456": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [
+            "00000000000000000000000000000000",
+            "00000000000000000000000000000000",
+            "00000000000000000000000000000000",
+            "00000000000000000000000000000000",
+            "00000000000000000000000000000000",
+            "a950e551a4dbe34197d60478b7e3d77f",
+            "00000000000000000000000000000000"
+          ],
+          "EquippedUpgrades": [
+            "4772aff82906f04c9eb8fa3ac23b9986"
+          ],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "aa45db930ea49142bb54e09a8390e456"
+        },
+        "b66739f359a40443b70d9bacf8aa2d39": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "b66739f359a40443b70d9bacf8aa2d39"
+        },
+        "c6e5c1b3dd407342a8ffb33689cb76af": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "c6e5c1b3dd407342a8ffb33689cb76af"
+        },
+        "d3af4b9e940fef41a7db46914463f084": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [
+            "0a38524a782a1e4eb937cd4f7250dc97"
+          ],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "d3af4b9e940fef41a7db46914463f084"
+        },
+        "d8a5f7f6bd131d45acbd2cfe7e5416cc": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "d8a5f7f6bd131d45acbd2cfe7e5416cc"
+        },
+        "d8eccaec761d91438843cbe741f1c5a1": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [
+            "cbc3c2af07e2e043b7463ac2f0d0ef89"
+          ],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [
+            "6b5469ec74d3c746a73493677b75280b"
+          ],
+          "WeaponID": "d8eccaec761d91438843cbe741f1c5a1"
+        },
+        "df573b09420b2e408bce3ab9d36542f8": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "df573b09420b2e408bce3ab9d36542f8"
+        },
+        "f42fdad631785842abce22c7733054b9": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "f42fdad631785842abce22c7733054b9"
+        },
+        "fde1cbb0b68a5b43be971d83db95c3d9": {
+          "EquippedOverclock": "00000000000000000000000000000000",
+          "EquippedSkinColor": "00000000000000000000000000000000",
+          "EquippedSkinMesh": "00000000000000000000000000000000",
+          "EquippedSkins": [],
+          "EquippedUpgrades": [],
+          "OverclockingUnlocked": false,
+          "PermanentUpgrades": [],
+          "WeaponID": "fde1cbb0b68a5b43be971d83db95c3d9"
+        }
+      }
+    }
+  ],
+  "LastPlayedCharacter": "/Game/Character/ScoutID.ScoutID",
+  "LastShownVersion": "1.36",
+  "Milestones": {
+    "ClaimedKPIRewards": [
+      {
+        "KPIGuid": "909676e973645949a02e76c8add368af",
+        "Tier": 2
+      },
+      {
+        "KPIGuid": "03828bb19ab4024c95612b5822a3a0c4",
+        "Tier": 2
+      },
+      {
+        "KPIGuid": "e06479f5dff94e498258a84b4048436a",
+        "Tier": 4
+      },
+      {
+        "KPIGuid": "4ee3f7b113c1cb4f95786c5dfef67805",
+        "Tier": 3
+      },
+      {
+        "KPIGuid": "859303292bf5fd4fa79ef5a44befe2fd",
+        "Tier": 2
+      },
+      {
+        "KPIGuid": "579e5eec457196419f098353a6fb4020",
+        "Tier": 2
+      },
+      {
+        "KPIGuid": "d1c9a31f07d0f6498ea46a2445158c7e",
+        "Tier": 2
+      },
+      {
+        "KPIGuid": "c6f1132818469c4eaec7cda151120f93",
+        "Tier": 1
+      },
+      {
+        "KPIGuid": "f7d21a7dec9b20479e3feec48fd7854d",
+        "Tier": 2
+      },
+      {
+        "KPIGuid": "c6574431a7436a40adecef559657389e",
+        "Tier": 1
+      },
+      {
+        "KPIGuid": "7196a9968ea16e489f62bff56aec6166",
+        "Tier": 1
+      },
+      {
+        "KPIGuid": "9909e18e57da6749aa1f9304435551e4",
+        "Tier": 2
+      },
+      {
+        "KPIGuid": "9226dc6fca5f9c418c01d28774ee5c4d",
+        "Tier": 2
+      },
+      {
+        "KPIGuid": "426ff633995f5b44bc1c969902fea8b7",
+        "Tier": 2
+      },
+      {
+        "KPIGuid": "b219ef63e1b9c34384737c9ce3f933be",
+        "Tier": 2
+      },
+      {
+        "KPIGuid": "9b086787e8463e48ac00b8b4e6381143",
+        "Tier": 1
+      },
+      {
+        "KPIGuid": "06136740129576459337abf137a9097a",
+        "Tier": 1
+      },
+      {
+        "KPIGuid": "69ad6ddb5d434e4499ba5813f6622813",
+        "Tier": 1
+      },
+      {
+        "KPIGuid": "f3ed67aaa6668c45b82049a889f36462",
+        "Tier": 1
+      },
+      {
+        "KPIGuid": "5257b28885408f4f9693388ff04de325",
+        "Tier": 1
+      },
+      {
+        "KPIGuid": "6912fa0236a2a04c9f2f2f9b0a9dcceb",
+        "Tier": 1
+      },
+      {
+        "KPIGuid": "388339a4da72b646986975ad1fd901f7",
+        "Tier": 3
+      },
+      {
+        "KPIGuid": "fa382ce629be7f4eaa65e9b72f094716",
+        "Tier": 1
+      },
+      {
+        "KPIGuid": "88a5e7ec7616cd4680229634ea0f4f24",
+        "Tier": 1
+      },
+      {
+        "KPIGuid": "6d835a843a450b43b5a6ecd18dbe3233",
+        "Tier": 2
+      },
+      {
+        "KPIGuid": "9ca09c69d1782b4ebe856888e82a6d8e",
+        "Tier": 2
+      },
+      {
+        "KPIGuid": "5ce6ed51a0b637448c45897bd5d58839",
+        "Tier": 1
+      },
+      {
+        "KPIGuid": "951835c4e28a2345a91f64c2adb5c1ee",
+        "Tier": 1
+      },
+      {
+        "KPIGuid": "ad8609a6de4c7b4d89b77bf4480d8556",
+        "Tier": 1
+      },
+      {
+        "KPIGuid": "59846cab1ae25241b04ace39f054eddd",
+        "Tier": 1
+      }
+    ]
+  },
+  "MinersManualKnownObjects": [
+    "e977bf0a42a9ed46a0d89c8d874adcff",
+    "34dd874517dd9541accb023ecbde8192",
+    "59a583263db6b442b2e3d27f3e83bcc3",
+    "481284770880ff4db2263f218fe62be4",
+    "6b6f4b64c33b8842bb3256149b216658",
+    "04aa53933b1e51409bf8ac77d578004f",
+    "89d2f530a027d0468dbe1b8d39bd86b5",
+    "0c097cfd470aa4439e1c423488187657",
+    "9c0df86e963acb4b8aaef22c44923140",
+    "d805ddffa765a248a2554bc847912463",
+    "ad24eec430601a4585928f2242203e71",
+    "f6b3313d1bdabb44a81ab86ff3c98103",
+    "01550f25af17d847819cbaff3e04041e",
+    "7ba04c4ce3fcec46b6c9b8cf42db3519",
+    "6cafbad725b38e47ae4a0201b9f6d715",
+    "dd4b96e8d8a64e4a8005dad44177d9c5",
+    "2532b64000ea934d89af711d459a78dc",
+    "49f477bed4be854f851c8e33f161e253",
+    "5f55ef160b7d724aa08f6fa236eb1149",
+    "a1dc7b029fb44a42aa36f4e495fc2d1f",
+    "4745cb879e22ce40b67b0bf12b584f47",
+    "3387dd2db5d6cc47b972ede48b54c289",
+    "8b9210624f86144f8882e7f1909cff44",
+    "f4d438e80b648d42b1cbf849dde4b381",
+    "46d41604e6547440ab9f941cffa440e9",
+    "ef82128aa2abec43a194f212aa999033",
+    "28d45f97f002be4dafc260b10d5671cb",
+    "aff250f7f2f97e45844ed12aa04a9ed4",
+    "f08a03399d0ede4cb894a261d11ac13d",
+    "43bddadc5dcba442af3586ac3fb1b825",
+    "c458a3ce8835804fa582b0a3af2b645a",
+    "f25e936a5311ba469515bbd3c6dc7a9d",
+    "547832d42f1f0744b226a0c62c0faaf3",
+    "c344d2335adfda44991bcb21ce722069",
+    "6636e88887a3254592cf349063323a60",
+    "938e7e04b5ae5a4fbd01ab87234ecea1",
+    "bf19ec7874d62c44b53790c4140c38c1",
+    "20c653b0b6166844a33f28744489b0d1",
+    "dfdbfd7ef1e474408927407c4384e81a",
+    "e3e8dd662818184f900a5cb964bf203f",
+    "475bbae0bb78b0478301eefba6cb62a1",
+    "602aecfdb948f040b4e6fccdd411d9db",
+    "395d2a3fe45220419e0b3aa013c65359",
+    "a7bfdaa1c557dc4bac6cee0ef10180ae",
+    "226855d616038c4b8cad71fd698852a4",
+    "0e0c573129b9fe4ea4b6fed378f7e724",
+    "a57e487e15d22543848802aaa726d5c0",
+    "3eae2745e684e1469b33a9ef8c09b484",
+    "846d93cbaf1e1041ae8815205f9b461c",
+    "9677303ab7bce7438a87293872ac05e8",
+    "1a208acdc60344419da539a4dad06339",
+    "ec441b68bb60014481409a171f42ec51",
+    "07856944ae39de4cb11c5ce9960e2b57",
+    "38b030dd102f8d4f9f0de7b2630b8778",
+    "5bf871cb97a55a4a925f4340ac8c00c4",
+    "7474f102a22e1b44b2e45e57a8e5b480",
+    "7b816fb1dfda9f4cac12c9c4eddad468",
+    "8efc3fcec6b9b84995ce2d458ad190ee",
+    "b6a70effc2f2694e87d638399508dc6d",
+    "639801de2911c44f8df71d42bb5304fa",
+    "158220c9fa95d84b8bd0da5eaea2353b",
+    "b15f4de5358cdb4fae0200d750920b71",
+    "e9b250ddc1d383448e61483eeeb024f9",
+    "655262f976696542b8dbdf83a058ff6d",
+    "a115964b721e42419b0080d49f545801"
+  ],
+  "MissionStatsSave": {
+    "Counters": [
+      {
+        "MissionStatID": "f803c36f7517bf479202063bbe5b68c6",
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "Value": 156164.56
+      },
+      {
+        "MissionStatID": "57f21f5d735f1944b08a63395ccd6da7",
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "Value": 961.2662
+      },
+      {
+        "MissionStatID": "d0fc16584756b541b8708ffc3c2ac6a2",
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "Value": 223.01584
+      },
+      {
+        "MissionStatID": "e77ad95bdfa17d438e5bfe1ca6bf690a",
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "Value": 22
+      },
+      {
+        "MissionStatID": "d839bca48ae243468b5da06e7bd0e4c8",
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "Value": 1
+      },
+      {
+        "MissionStatID": "22249055a35db74eb1fe1f32a5047593",
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "Value": 1
+      },
+      {
+        "MissionStatID": "11871ba21556ee41b4564d82cb6e6409",
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "Value": 1
+      },
+      {
+        "MissionStatID": "34b679e5fc836d458c5e839d9075c06e",
+        "PlayerClassID": "6e68d5d66fe647458ecec5462768b128",
+        "Value": 9
+      },
+      {
+        "MissionStatID": "f803c36f7517bf479202063bbe5b68c6",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 11659351
+      },
+      {
+        "MissionStatID": "57f21f5d735f1944b08a63395ccd6da7",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 47548.06
+      },
+      {
+        "MissionStatID": "d0fc16584756b541b8708ffc3c2ac6a2",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 15868.809
+      },
+      {
+        "MissionStatID": "f86b76d826b95b45a16467936927db1b",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 20
+      },
+      {
+        "MissionStatID": "e77ad95bdfa17d438e5bfe1ca6bf690a",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 1360
+      },
+      {
+        "MissionStatID": "d839bca48ae243468b5da06e7bd0e4c8",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 39
+      },
+      {
+        "MissionStatID": "e3e825fc837f354889075523949c2e1a",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 39
+      },
+      {
+        "MissionStatID": "53f7fe1c000efb439e4d0e11698887ec",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 37
+      },
+      {
+        "MissionStatID": "cadd2557633002469cce14ba34dcda05",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 4
+      },
+      {
+        "MissionStatID": "75381c780da5e640b49d7f1fffa098ef",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 33
+      },
+      {
+        "MissionStatID": "a8b3d4e6f87eb549bbdfd70959dc18d4",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 9
+      },
+      {
+        "MissionStatID": "1303e451de761d4796cd0bd5e2a682e0",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 34
+      },
+      {
+        "MissionStatID": "d6845a5cfad9e6439cf98a66d80c5d73",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 7
+      },
+      {
+        "MissionStatID": "fcc4bdafb0400b4caba6b30c506e5b19",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 14
+      },
+      {
+        "MissionStatID": "c8d72ca0bd467d4f92bee1cb8f09975f",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 8
+      },
+      {
+        "MissionStatID": "39f41f8b87eed544b757ad3084db4a56",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 7
+      },
+      {
+        "MissionStatID": "6c4d21996eb2644690dcd3618b5b9c27",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 6
+      },
+      {
+        "MissionStatID": "b8a82208f7d6ca45a97ca5c44023e640",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 3
+      },
+      {
+        "MissionStatID": "fc637f52ca5f664998ccc36dfc83a388",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 5
+      },
+      {
+        "MissionStatID": "34b679e5fc836d458c5e839d9075c06e",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 50
+      },
+      {
+        "MissionStatID": "3c419ab137e6724b9d1756eb82ec84c9",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 4
+      },
+      {
+        "MissionStatID": "56ae355d474ec94b9c7eb4eb39d786b0",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 6
+      },
+      {
+        "MissionStatID": "b787a9dfd242934786b39534939d3e17",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 6
+      },
+      {
+        "MissionStatID": "c282e05dcd38e5468ac2ba9a8c35de5e",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 5
+      },
+      {
+        "MissionStatID": "f06c98a0b831064f814768b1777bcdff",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 2
+      },
+      {
+        "MissionStatID": "ae890e3a5304604da04cc52959de8a77",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 8
+      },
+      {
+        "MissionStatID": "f782a6a2aeffae418731fe13541fd8cf",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 2
+      },
+      {
+        "MissionStatID": "c375787852e61f4bae94b13995d73bc4",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 5
+      },
+      {
+        "MissionStatID": "fd41463ad3932f4ba378132078b3890f",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 7
+      },
+      {
+        "MissionStatID": "86fd5f6246223f4e8abe7bb6554d049e",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 3
+      },
+      {
+        "MissionStatID": "f165765dd92a2341a956b7ab7e342570",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 5
+      },
+      {
+        "MissionStatID": "d786609e70dcf747ad2bbfe093708618",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 4
+      },
+      {
+        "MissionStatID": "dc257ebd58cfd045abcc98c930eaed5e",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 2
+      },
+      {
+        "MissionStatID": "b6c420076d16cc4aa68fa7950cdec328",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 7
+      },
+      {
+        "MissionStatID": "ff10aa15b8bb8f49983b634c1dfe2cc7",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 3
+      },
+      {
+        "MissionStatID": "06ae65fe33c85146a8c0d80304e51e3a",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 2
+      },
+      {
+        "MissionStatID": "e66bb4ba96efe1458bda728f1005013e",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 2
+      },
+      {
+        "MissionStatID": "baaceec8b58dfd48846bd67c16d56b90",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 3
+      },
+      {
+        "MissionStatID": "3e11ee7791d88346bd0e1324827c04ef",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 5
+      },
+      {
+        "MissionStatID": "bdcc3f1f8121004f95b22c23d1881082",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 1
+      },
+      {
+        "MissionStatID": "67b04c64c431c44297b3a24820163e54",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 6
+      },
+      {
+        "MissionStatID": "a5d5468d10057f4e89dc740e6a29e1f1",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 3
+      },
+      {
+        "MissionStatID": "b0ab4b4701a5594da74b7a19419604cb",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 2
+      },
+      {
+        "MissionStatID": "fb6def697d7dc446945be089ff5757b0",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 1
+      },
+      {
+        "MissionStatID": "34b679e5fc836d458c5e839d9075c06e",
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "Value": 1
+      },
+      {
+        "MissionStatID": "57f21f5d735f1944b08a63395ccd6da7",
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "Value": 1617.3347
+      },
+      {
+        "MissionStatID": "f803c36f7517bf479202063bbe5b68c6",
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "Value": 396956.78
+      },
+      {
+        "MissionStatID": "d0fc16584756b541b8708ffc3c2ac6a2",
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "Value": 451.30487
+      },
+      {
+        "MissionStatID": "ae890e3a5304604da04cc52959de8a77",
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "Value": 1
+      },
+      {
+        "MissionStatID": "fcc4bdafb0400b4caba6b30c506e5b19",
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "Value": 5
+      },
+      {
+        "MissionStatID": "f86b76d826b95b45a16467936927db1b",
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "Value": 1
+      },
+      {
+        "MissionStatID": "e77ad95bdfa17d438e5bfe1ca6bf690a",
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "Value": 64
+      },
+      {
+        "MissionStatID": "d839bca48ae243468b5da06e7bd0e4c8",
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "Value": 1
+      },
+      {
+        "MissionStatID": "c4897a0f90059c41a5e1b778fcf859af",
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "Value": 1
+      },
+      {
+        "MissionStatID": "53f7fe1c000efb439e4d0e11698887ec",
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "Value": 1
+      },
+      {
+        "MissionStatID": "f165765dd92a2341a956b7ab7e342570",
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "Value": 1
+      },
+      {
+        "MissionStatID": "3e11ee7791d88346bd0e1324827c04ef",
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "Value": 1
+      },
+      {
+        "MissionStatID": "3c419ab137e6724b9d1756eb82ec84c9",
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "Value": 1
+      },
+      {
+        "MissionStatID": "39f41f8b87eed544b757ad3084db4a56",
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "Value": 1
+      },
+      {
+        "MissionStatID": "4439a4587274144d8ea7871d78bf413f",
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "Value": 1
+      }
+    ],
+    "WeaponUpgradesFixed": false,
+    "bBoughtEquipmentUpgradesFixed": false,
+    "bBoughtVanityItemsFixed": false,
+    "bCampaignsCompletedFixed": false,
+    "bCharacterLevelUpFixed": false
+  },
+  "NumberOfGamesPlayed": 44,
+  "OnVanityMasteryChanged": {
+    "ObjectPath": "/Engine/Transient.GameEngine_2147482593:BP_GameInstance_C_2147482579._MENU_Crafting_C_2147480043.WidgetTree.MasteryBar",
+    "FunctionName": "OnVanityMasteryChanged"
+  },
+  "OwnedItems": [
+    "79e91bf15ac1694ba7987c696959c0d1",
+    "9736ee110d4c8749a224af6f2dba0160",
+    "3df53ab5b7f66048b686f785f634e5a4"
+  ],
+  "OwnedPerks": {
+    "HasResetPerks2": false,
+    "PerkEntries": [
+      {
+        "PerkID": "1985f5de43f71e48814f81ce35579027",
+        "currentRank": 4
+      },
+      {
+        "PerkID": "a9d732f171c6ad4a9521658083be37bd",
+        "currentRank": 2
+      },
+      {
+        "PerkID": "05e82223d3b80945ae829835c079592c",
+        "currentRank": 2
+      },
+      {
+        "PerkID": "a55a06ce8632bd4d93314f690ae63bf8",
+        "currentRank": 4
+      },
+      {
+        "PerkID": "ced1b19041017d48a010c274064a2c67",
+        "currentRank": 2
+      },
+      {
+        "PerkID": "5ab55a45804ce147a487ebbf31f8c252",
+        "currentRank": 1
+      },
+      {
+        "PerkID": "0dd8003bad5d634f8316b4b60d6f267f",
+        "currentRank": 1
+      },
+      {
+        "PerkID": "8b27dfbe016f4d43859b22ac0948ad88",
+        "currentRank": 1
+      },
+      {
+        "PerkID": "6d3354b4ba234f4cbffd56672a412b73",
+        "currentRank": 2
+      },
+      {
+        "PerkID": "3050f48dff6ec542ad2a18ca8d20f705",
+        "currentRank": 2
+      },
+      {
+        "PerkID": "b7422c61ab0dcd4ca0a4a76aa018281e",
+        "currentRank": 1
+      },
+      {
+        "PerkID": "66fe47da4cb2e34ea8ad641e8e0f0949",
+        "currentRank": 2
+      },
+      {
+        "PerkID": "f747e1d81bba744980e385e8610d11a6",
+        "currentRank": 1
+      },
+      {
+        "PerkID": "eb7a23f8cdc39d41b710827a4b685719",
+        "currentRank": 1
+      },
+      {
+        "PerkID": "70fd1cebe09c6749b6fc19f9284b9400",
+        "currentRank": 1
+      },
+      {
+        "PerkID": "0bffd56dced448408fe07ce20381f954",
+        "currentRank": 1
+      },
+      {
+        "PerkID": "5de517d9763b1a4e976f2f04466861bf",
+        "currentRank": 1
+      },
+      {
+        "PerkID": "2f13340b6c859c40a019751a6367f8cb",
+        "currentRank": 1
+      }
+    ]
+  },
+  "PerkPoints": 1,
+  "PurchasedItemUpgrades": [
+    "0a38524a782a1e4eb937cd4f7250dc97",
+    "4772aff82906f04c9eb8fa3ac23b9986",
+    "cbc3c2af07e2e043b7463ac2f0d0ef89",
+    "98bcf352aae222448a5d6715d3b32cb7",
+    "49c5fc7823fb534abadd99b8b8abda3e",
+    "f0a2069f40ade74e987105549ed42731",
+    "89f8489a91219d4c80dfab41c5639a44",
+    "57e736aa7fd7434d9fc65c582c804dc5",
+    "02aa9aa2df864845bf4847b6e410df40",
+    "aec1d2b63112864d857db0d4c59530e1",
+    "c828ad05f868754ebc4fa53df3063725",
+    "9d65452be608eb4f9387b350c4432f63",
+    "a6375330f9f8ba4b9abd3997a43d8a71",
+    "034bc14091ab844887fe37c9ed4bfa40",
+    "c123ed1651613d4290ae58c76d6307a5",
+    "e5cab7a87c84cf41aa9caf666057fc3f",
+    "1e1db108fd65a145914b31253f8d5153",
+    "c229a9918d7f3a4487b17ef554c0dcaf",
+    "2891d558b54f1f4b8ffc797aa93923ea",
+    "159c06093f6f86449d6c566edeb6631d",
+    "5b510fb5d413a9449199a572978effde",
+    "78b770fc24ebae4c9486a696c857f32f",
+    "792d2e605e903b4dbb3661d45dbdc568",
+    "f7e2c4a1795ae64ebea379d7064eb437",
+    "8a98c9009399664394443a52537a9b27",
+    "5c14ac9e04fa9041aabb75f443cb62d0",
+    "f0f719d1e9608046a4462e8f144b655e",
+    "88abba5714fc3e46881a81dba91dcbb9",
+    "09c581ee97c48b4e900795ce5cb2619c",
+    "e370554343213e4caab4a53e18882121",
+    "f7237cb9c186204ead1d8153763c1c29",
+    "59ef40192ea903438e4752d3ff2c63b5",
+    "15623f5d01e49949b5d86c1305bafb2c",
+    "ecff03434db6f14391fa32637a7acdc1",
+    "d73fc0186dc92f4bb8affa5c0f582fd5",
+    "48bc3c32886cc646a34ee2cadcd7eacf",
+    "d9d2c784d075d44a9c0ef29b07744115",
+    "59d3dbacfcbc9044bd3b0047cf55c11e",
+    "67832afcbe071e4bb32bc33740f078c7",
+    "0fd97b166264c246ac5bcbd1c6677224",
+    "414188ed6203004699b018445ee4293c",
+    "bc5aab0df902564cb45a66c94aac50b1",
+    "d52657e5c388ea429cd0c98aef989a2a",
+    "f610a1f6b5ad8f4bbf17f760bf8699a2",
+    "8849d0b64c912043a35ada2eecc800a1",
+    "9954f1fa61935341811b12e7340e69cd",
+    "0cac865f2c08aa4abf47f90c720bf188",
+    "5d0f982c2686554dbf10bdc3ac6689a4",
+    "f16c53b85b604b4ab3ccf925b1dc5271",
+    "69d6374c063040489610e2cd86942054",
+    "c89e462b6682a7499c941f3e5f7bb863",
+    "6c64b7e4d9cbb2479541c70718b9f34b",
+    "cff7e077fa41a14c9d3d592a87e86351",
+    "3d49f4aecf7b5c46b46db08fcbb2642c",
+    "eaf82efc9382a74aa7d2c6b2af3540a9",
+    "906acaa7a5cf8a408c262573fc475d23",
+    "27237c20e6206d4e85e680a50edef7cc",
+    "e40e234df49961469dc032abb511b7a6",
+    "61841f573417d644893ebe5cb03e22a3",
+    "0455d6d1d13a1640a5bb547fc70f2dcd"
+  ],
+  "Resources": {
+    "OwnedResources": {
+      "078548b93232c04085f892e084a74100": 55,
+      "22bc4f7d07d13e43bfca81bd9c14b1af": 282,
+      "22daa757ad7a8049891b17edcc2fe098": 31,
+      "41ea550c1d46c54bbe2e9ca5a7accb06": 54,
+      "488d05146f5f754ba3d4610d08c0603e": 238,
+      "5828652c9a5de845a9e2e1b8b463c516": 2,
+      "5f2bcf8347760a42a23b6edc07c0941d": 570,
+      "67668aae828fdb48a9111e1b912dbfa4": 248,
+      "72312204e287bc41815540a0cf881280": 122,
+      "8aa7fb43293a0b49b8be42ffe068a44c": 593,
+      "99fa526ad87748459498905a278693f6": 8,
+      "a10cb2853871fb499ac854a1cde2202c": 2,
+      "aaded8766c227d408032afd18d63561e": 562,
+      "af0dc4fe8361bb48b32c92cc97e21de7": 132
+    }
+  },
+  "SaveCreatedInPatch": 30,
+  "SaveToDiskCounter": 806,
+  "SchematicSave": {
+    "OwnedSchematics": [
+      "5885a33b15ae844591a66b65a2e5494e",
+      "8500b75544eeac41ad48486f36662352",
+      "6f26a8b49f967c4d999f734645eae2c4",
+      "4e86bcf8f790974cbb68f8ec7d9efde1"
+    ],
+    "SkinFixupCounter": 4,
+    "bFirstSchematicMessageShown": false
+  },
+  "SeasonSave": {
+    "Seasons": {
+      "b860b55f1d1bb54d8ee2e41fda9f5838": {
+        "ActiveChallenges": [
+          {
+            "ChallengeGuid": "a696960aab4f6d4985512d748a217216",
+            "CurrentWins": 1,
+            "NumberOfWins": 5,
+            "StatIndices": [
+              0,
+              1
+            ],
+            "TokenGain": 0,
+            "XPCompleteGain": 3750
+          },
+          {
+            "ChallengeGuid": "113da8ad508d5d4497a253246d55e5af",
+            "CurrentWins": 0,
+            "NumberOfWins": 2,
+            "StatIndices": [
+              0
+            ],
+            "TokenGain": 1,
+            "XPCompleteGain": 0
+          }
+        ],
+        "ChallengesCompletedAtSeasonStart": 0,
+        "ClaimedScripChallenges": 9,
+        "CompletedSpecialChallenges": {
+          "113da8ad508d5d4497a253246d55e5af": 2,
+          "66996c31a8323847924fe35d71a1c131": 0,
+          "ae890e3a5304604da04cc52959de8a77": 9
+        },
+        "HasClaimedAllRewards": false,
+        "LastChallengeReroll": "637926060496630000",
+        "LastNewChallengeGiven": "637931880273830000",
+        "NodesBought": {
+          "1418766592": true,
+          "14811588": true,
+          "1570355968": true,
+          "1635894016": true,
+          "1637925632": true,
+          "1728826880": true,
+          "18285102": true,
+          "1915020416": true,
+          "1926489472": true,
+          "1974856576": true,
+          "465123200": true,
+          "550977984": true,
+          "596461312": true,
+          "748837184": true,
+          "832201536": true,
+          "871131072": true,
+          "931753728": true,
+          "986477952": true
+        },
+        "RewardsClaimed": [
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          },
+          {
+            "NormalClaimed": false,
+            "SpecialClaimed": false
+          }
+        ],
+        "RewardsClaimedAfterMaxLevel": 0,
+        "TimePlayedAtSeasonStart": 0,
+        "Tokens": 0,
+        "XP": 59103
+      }
+    }
+  },
+  "ShowInfoScreen": false,
+  "TotalPlayTimeSeconds": 107134.88,
+  "UnLockedMissionParameters": {
+    "8b9210624f86144f8882e7f1909cff44": {
+      "UnLockedComplexities": [
+        "6f88162fe24bdc4f852e237ddd8147a9"
+      ],
+      "UnLockedDurations": []
+    },
+    "9b5185fdd3e81e45a99b6e549a2065ac": {
+      "UnLockedComplexities": [
+        "14eafcfcd7e08c4394e017ffe03d1796",
+        "6f88162fe24bdc4f852e237ddd8147a9"
+      ],
+      "UnLockedDurations": [
+        "35ebd0df768b2b4d9d06d87fe1a8eec7"
+      ]
+    },
+    "c458a3ce8835804fa582b0a3af2b645a": {
+      "UnLockedComplexities": [],
+      "UnLockedDurations": [
+        "b2b0632f3c45bc408cb222d51bbe196e"
+      ]
+    },
+    "dd4b96e8d8a64e4a8005dad44177d9c5": {
+      "UnLockedComplexities": [
+        "6f88162fe24bdc4f852e237ddd8147a9"
+      ],
+      "UnLockedDurations": []
+    },
+    "e3e8dd662818184f900a5cb964bf203f": {
+      "UnLockedComplexities": [
+        "6f88162fe24bdc4f852e237ddd8147a9"
+      ],
+      "UnLockedDurations": []
+    },
+    "f6b3313d1bdabb44a81ab86ff3c98103": {
+      "UnLockedComplexities": [
+        "14eafcfcd7e08c4394e017ffe03d1796",
+        "6f88162fe24bdc4f852e237ddd8147a9"
+      ],
+      "UnLockedDurations": []
+    }
+  },
+  "UnLockedMissions": [
+    "f6b3313d1bdabb44a81ab86ff3c98103",
+    "dd4b96e8d8a64e4a8005dad44177d9c5",
+    "8b9210624f86144f8882e7f1909cff44",
+    "c458a3ce8835804fa582b0a3af2b645a",
+    "938e7e04b5ae5a4fbd01ab87234ecea1",
+    "e3e8dd662818184f900a5cb964bf203f",
+    "1a208acdc60344419da539a4dad06339"
+  ],
+  "UnLockedPlanetZones": [
+    "2532b64000ea934d89af711d459a78dc",
+    "46d41604e6547440ab9f941cffa440e9",
+    "f25e936a5311ba469515bbd3c6dc7a9d"
+  ],
+  "UnlockedItemSkins": {
+    "00356685ffb79e4598d8f64c15cd4a9b": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9"
+      ]
+    },
+    "0598b596016e324886832d1a6d62f981": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9",
+        "3e4350a85723c847a89b388c57655570"
+      ]
+    },
+    "192ac9d763b05942a4a92436658cdac2": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9"
+      ]
+    },
+    "1af31165bcb11c48a5a3d1a6ba5a3540": {
+      "Skins": [
+        "08d558f65f0c5945baa4f9649a56589c",
+        "f5e185065ad96c478e32b3644c87b0b9",
+        "a5854a679a019d4daa0178ee23fe4e9e",
+        "bf510980b965b540918aa0a29d8e052b"
+      ]
+    },
+    "28d22472c409224eaffacac8b1377287": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9"
+      ]
+    },
+    "299fdb2466194e419c213eed4b50fa02": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9"
+      ]
+    },
+    "3df53ab5b7f66048b686f785f634e5a4": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9",
+        "08d558f65f0c5945baa4f9649a56589c"
+      ]
+    },
+    "4e96f432d0182343a62e81d821a1480f": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9",
+        "9919eaeaabdfc54aa1cfccdff6e87b5f"
+      ]
+    },
+    "501a4f4ccc24cb42b0287f2af9ae120d": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9"
+      ]
+    },
+    "763a96f020192646a61d41f498be4285": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9"
+      ]
+    },
+    "79e91bf15ac1694ba7987c696959c0d1": {
+      "Skins": [
+        "08d558f65f0c5945baa4f9649a56589c",
+        "d5b515bfe3d0264a9b9f2e2326f28a3e",
+        "f5e185065ad96c478e32b3644c87b0b9",
+        "f8d2dff1ed1f25468c785be0015dc062"
+      ]
+    },
+    "82082aab25319f43b43a8458f5228e8c": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9"
+      ]
+    },
+    "895756cb9017b0419d74c47ac45a16a5": {
+      "Skins": [
+        "08d558f65f0c5945baa4f9649a56589c",
+        "00af5279c969c248a5611617b246eadc",
+        "f5e185065ad96c478e32b3644c87b0b9",
+        "a5854a679a019d4daa0178ee23fe4e9e"
+      ]
+    },
+    "91fb7410e53fb64ebac7558e2c415e58": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9"
+      ]
+    },
+    "9736ee110d4c8749a224af6f2dba0160": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9",
+        "08d558f65f0c5945baa4f9649a56589c",
+        "a932e740b82fda4bbbbf08792284b833"
+      ]
+    },
+    "9d772549a4b54045a1377f38795655c1": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9"
+      ]
+    },
+    "a3ed6a8ace08cd4db471a10c697b6b64": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9",
+        "e94bd81d70582949a480aa5f45239f45"
+      ]
+    },
+    "b66739f359a40443b70d9bacf8aa2d39": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9"
+      ]
+    },
+    "b95edec1bddb1c478e5dc57322105134": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9"
+      ]
+    },
+    "d3af4b9e940fef41a7db46914463f084": {
+      "Skins": [
+        "5c2fb7768023fe469e9964769f6599c0",
+        "1c947eadefaeec48a97f69e93dc1b9c9",
+        "3e198ae6cb38964498b667add65d972e",
+        "a3bc5291b3b1074dac2c204d57eaf7b8"
+      ]
+    },
+    "d8a5f7f6bd131d45acbd2cfe7e5416cc": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9"
+      ]
+    },
+    "ddb5da9086cd4442af6006de2a4390a9": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9"
+      ]
+    },
+    "df573b09420b2e408bce3ab9d36542f8": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9"
+      ]
+    },
+    "f1985b1c74c1a548b789b8ac8517fe4e": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9",
+        "629e7ab3ae2b2c4d9c100f99243b69e2"
+      ]
+    },
+    "f9cc8dcbb9ebc44f9b0cb80d58f30031": {
+      "Skins": [
+        "f5e185065ad96c478e32b3644c87b0b9"
+      ]
+    }
+  },
+  "UnlockedItems": [
+    "79e91bf15ac1694ba7987c696959c0d1",
+    "9736ee110d4c8749a224af6f2dba0160",
+    "3df53ab5b7f66048b686f785f634e5a4"
+  ],
+  "VanityMasterySave": {
+    "HasAwardedForOldPurchases": false,
+    "XP": 480
+  },
+  "VersionNumber": 2,
+  "WatchedTutorials": [
+    {
+      "TutorialName": "Tutorial_Hint_Deposite",
+      "count": 2
+    },
+    {
+      "TutorialName": "Tutorial_Hint_Nitra",
+      "count": 1
+    },
+    {
+      "TutorialName": "Tutorial_Hint_BoscoFirstSoloMission",
+      "count": 1
+    },
+    {
+      "TutorialName": "Tutorial_Hint_EquipGrenade",
+      "count": 10
+    },
+    {
+      "TutorialName": "Tutorial_Hint_LowOnAmmo",
+      "count": 5
+    },
+    {
+      "TutorialName": "Tutorial_Hint_Resupply",
+      "count": 3
+    },
+    {
+      "TutorialName": "Tutorial_Hint_EggMissionTerrainScanner",
+      "count": 3
+    },
+    {
+      "TutorialName": "Tutorial_Hint_EquipSecondaryWeapon",
+      "count": 10
+    },
+    {
+      "TutorialName": "Tutorial_Hint_EquipTraversalTool",
+      "count": 1
+    },
+    {
+      "TutorialName": "Tutorial_Hint_Refinery_BoscoBuilding",
+      "count": 1
+    },
+    {
+      "TutorialName": "BP_Tutorial_Hint_BrokenMiniMule",
+      "count": 1
+    },
+    {
+      "TutorialName": "Tutorial_Hint_Flares",
+      "count": 11
+    },
+    {
+      "TutorialName": "Tutorial_ThrowCarriable",
+      "count": 2
+    },
+    {
+      "TutorialName": "Tutorial_Hint_EquipClassTool",
+      "count": 7
+    },
+    {
+      "TutorialName": "Tutorial_Hint_BoscoAbility",
+      "count": 5
+    },
+    {
+      "TutorialName": "Tutorial_Hint_Escort_BoscoDefend",
+      "count": 1
+    },
+    {
+      "TutorialName": "Tutorial_Hint_Escort_Repair",
+      "count": 1
+    },
+    {
+      "TutorialName": "Tutorial_Hint_Escort_BoscoOilShale",
+      "count": 1
+    },
+    {
+      "TutorialName": "Tutorial_Hint_Sabotage_BoscoHackingNodes_C_2147434687",
+      "count": 1
+    },
+    {
+      "TutorialName": "Tutorial_Hint_Sabotage_BoscoDefendHackingPod",
+      "count": 1
+    }
+  ],
+  "WindowsOptions": {
+    "SaveGameOptionsValid": false,
+    "ScreenMode": 1
+  }
+}
