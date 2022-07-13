@@ -5,6 +5,29 @@
 In progress tool to decompile save from game Deep Rock Galactic
 
 
+## Usage
+
+I made a simple CLI tool to decompile save files.
+
+```
+Usage: DGR <file>
+
+Manipulate Deep Rock Galactic save files
+
+Arguments:
+  <file>    Save file to manipulate
+
+Flags:
+  -h, --help       Show context-sensitive help.
+      --meta       Print metadata
+      --version    Print version information and quit
+```
+
+Example:
+
+```shell
+drg 76561198055109443_Player.sav > save.json
+```
 
 ## UUIDS
 
