@@ -5,6 +5,8 @@ import (
 	"errors"
 	"fmt"
 	"io"
+
+	"github.com/mrmarble/drg/pkg/utils"
 )
 
 const (
@@ -34,13 +36,13 @@ type Metadata struct {
 }
 
 func DecodeMetadata(r io.Reader) (*Metadata, error) {
-	header := readNextBytes(r, len(Header))
+	header := utils.ReadNextBytes(r, len(Header))
 	if string(header) != Header {
 		return nil, ErrInvalidHeader
 	}
 	var metadata Metadata
 
-	err := readStruct(r, &metadata)
+	err := utils.ReadStruct(r, &metadata)
 	if err != nil {
 		return nil, fmt.Errorf("Failed to read metadata: %v", err)
 	}
@@ -67,15 +69,15 @@ func Decode(r io.ReadSeeker) (map[string]interface{}, error) {
 func decode(r io.ReadSeeker) map[string]interface{} {
 	fields := make(map[string]interface{})
 	for {
-		if binary.LittleEndian.Uint32(peek(r, 4)) == 0 {
+		if binary.LittleEndian.Uint32(utils.Peek(r, 4)) == 0 {
 			break
 		}
-		name := readNextString(r)
+		name := utils.ReadNextString(r)
 		if name == "None" {
 			break
 		}
-		dataType := readNextString(r)
-		readNextBytes(r, 8) // Skip length in int64
+		dataType := utils.ReadNextString(r)
+		utils.ReadNextBytes(r, 8) // Skip length in int64
 
 		property := properties(propertyType(dataType))
 		fields[name] = property(r)

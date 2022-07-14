@@ -1,4 +1,4 @@
-package drg
+package utils
 
 import (
 	"bytes"
@@ -10,7 +10,7 @@ import (
 	"reflect"
 )
 
-func readStruct(r io.Reader, structType interface{}) error {
+func ReadStruct(r io.Reader, structType interface{}) error {
 	// get type from pointer
 	v := reflect.Indirect(reflect.ValueOf(structType))
 
@@ -19,15 +19,15 @@ func readStruct(r io.Reader, structType interface{}) error {
 		fieldType := field.Type()
 		switch fieldType.Kind() {
 		case reflect.Int32:
-			field.SetInt(int64(readNextInt32(r)))
+			field.SetInt(int64(ReadNextInt32(r)))
 		case reflect.Uint32:
-			field.SetUint(uint64(readNextUint32(r)))
+			field.SetUint(uint64(ReadNextUint32(r)))
 		case reflect.Uint16:
-			field.SetUint(uint64(readNextUint16(r)))
+			field.SetUint(uint64(ReadNextUint16(r)))
 		case reflect.String:
-			field.SetString(readNextString(r))
+			field.SetString(ReadNextString(r))
 		case reflect.Struct:
-			err := readStruct(r, field.Addr().Interface())
+			err := ReadStruct(r, field.Addr().Interface())
 			if err != nil {
 				return err
 			}
@@ -35,10 +35,10 @@ func readStruct(r io.Reader, structType interface{}) error {
 			m := reflect.MapOf(fieldType.Key(), fieldType.Elem())
 			field.Set(reflect.MakeMap(m))
 
-			length := readNextUint32(r)
+			length := ReadNextUint32(r)
 			for i := 0; i < int(length); i++ {
-				key := readNextBytes(r, 16)
-				value := readNextInt32(r)
+				key := ReadNextBytes(r, 16)
+				value := ReadNextInt32(r)
 
 				field.SetMapIndex(reflect.ValueOf(hex.EncodeToString(key)), reflect.ValueOf(value))
 			}
@@ -49,7 +49,7 @@ func readStruct(r io.Reader, structType interface{}) error {
 	return nil
 }
 
-func readNextBytes(r io.Reader, number int) []byte {
+func ReadNextBytes(r io.Reader, number int) []byte {
 	bytes := make([]byte, number)
 
 	_, err := r.Read(bytes)
@@ -60,27 +60,27 @@ func readNextBytes(r io.Reader, number int) []byte {
 	return bytes
 }
 
-func readNextInt32(r io.Reader) int32 {
+func ReadNextInt32(r io.Reader) int32 {
 	var i int32
 
 	binary.Read(r, binary.LittleEndian, &i)
 	return i
 }
 
-func readNextUint32(r io.Reader) uint32 {
+func ReadNextUint32(r io.Reader) uint32 {
 	var i uint32
 
 	binary.Read(r, binary.LittleEndian, &i)
 	return i
 }
 
-func readNextUint16(r io.Reader) uint16 {
+func ReadNextUint16(r io.Reader) uint16 {
 	var i uint16
 	binary.Read(r, binary.LittleEndian, &i)
 	return i
 }
 
-func readNextString(r io.Reader) string {
+func ReadNextString(r io.Reader) string {
 	var buffer bytes.Buffer
 	var length int32
 
@@ -100,13 +100,13 @@ func readNextString(r io.Reader) string {
 	return buffer.String()[:length-1]
 }
 
-func readNextFloat32(r io.Reader) float32 {
+func ReadNextFloat32(r io.Reader) float32 {
 	var f float32
 	binary.Read(r, binary.LittleEndian, &f)
 	return f
 }
 
-func peek(r io.ReadSeeker, size int) []byte {
+func Peek(r io.ReadSeeker, size int) []byte {
 	bytes := make([]byte, size)
 	_, err := r.Read(bytes)
 	if err != nil {
@@ -121,14 +121,37 @@ func peek(r io.ReadSeeker, size int) []byte {
 	return bytes
 }
 
-func readNextBool(r io.Reader) bool {
+func ReadNextBool(r io.Reader) bool {
 	var b byte
 	binary.Read(r, binary.LittleEndian, &b)
 	return b != 0
 }
 
-func readNextInt64(r io.Reader) int64 {
+func ReadNextInt64(r io.Reader) int64 {
 	var i int64
 	binary.Read(r, binary.LittleEndian, &i)
 	return i
+}
+
+func WriteString(w io.Writer, s string) error {
+	buf := make([]byte, 4)
+	binary.LittleEndian.PutUint32(buf, uint32(len(s)+1))
+	w.Write(buf)
+	w.Write([]byte(s))
+	w.Write([]byte{0}) // null byte
+	return nil
+}
+
+func WriteInt64(w io.Writer, i int64) error {
+	buf := make([]byte, 8)
+	binary.LittleEndian.PutUint64(buf, uint64(i))
+	w.Write(buf)
+	return nil
+}
+
+func WriteInt32(w io.Writer, i int32) error {
+	buf := make([]byte, 4)
+	binary.LittleEndian.PutUint32(buf, uint32(i))
+	w.Write(buf)
+	return nil
 }

@@ -6,6 +6,8 @@ import (
 	"io"
 	"log"
 	"strconv"
+
+	"github.com/mrmarble/drg/pkg/utils"
 )
 
 type propertyType string
@@ -62,38 +64,38 @@ func properties(propertyType propertyType) Property {
 }
 
 func propertyInt(r io.ReadSeeker) interface{} {
-	readNextBytes(r, 1)
-	return readNextInt32(r)
+	utils.ReadNextBytes(r, 1)
+	return utils.ReadNextInt32(r)
 }
 
 func propertyFloat(r io.ReadSeeker) interface{} {
-	readNextBytes(r, 1)
-	return readNextFloat32(r)
+	utils.ReadNextBytes(r, 1)
+	return utils.ReadNextFloat32(r)
 }
 
 func propertyStruct(r io.ReadSeeker) interface{} {
-	structType := readNextString(r)
-	readNextBytes(r, 17) // Skip 16-byte empty GUID + 1-byte termination
+	structType := utils.ReadNextString(r)
+	utils.ReadNextBytes(r, 17) // Skip 16-byte empty GUID + 1-byte termination
 	switch propertyType(structType) {
 	case guidProperty:
 		return propertyGUID(r)
 	case dateTimeProperty:
-		timestamp := readNextInt64(r)
+		timestamp := utils.ReadNextInt64(r)
 
 		// return time.Unix(timestamp, 0)
 		return strconv.FormatInt(timestamp, 10)
 	default:
 		fields := make(map[string]interface{})
 		for {
-			if binary.LittleEndian.Uint32(peek(r, 4)) == 0 {
+			if binary.LittleEndian.Uint32(utils.Peek(r, 4)) == 0 {
 				break
 			}
-			innerName := readNextString(r)
+			innerName := utils.ReadNextString(r)
 			if innerName == "None" {
 				break
 			}
-			innerDataType := readNextString(r)
-			readNextBytes(r, 8) // Skip length in int64
+			innerDataType := utils.ReadNextString(r)
+			utils.ReadNextBytes(r, 8) // Skip length in int64
 			property := properties(propertyType(innerDataType))
 			fields[innerName] = property(r)
 		}
@@ -102,22 +104,22 @@ func propertyStruct(r io.ReadSeeker) interface{} {
 }
 
 func propertyGUID(r io.ReadSeeker) interface{} {
-	key := readNextBytes(r, 16)
+	key := utils.ReadNextBytes(r, 16)
 	return hex.EncodeToString(key)
 }
 
 func propertyStructArray(r io.ReadSeeker) interface{} {
 	fields := make(map[string]interface{})
 	for {
-		if binary.LittleEndian.Uint32(peek(r, 4)) == 0 {
+		if binary.LittleEndian.Uint32(utils.Peek(r, 4)) == 0 {
 			break
 		}
-		innerName := readNextString(r)
+		innerName := utils.ReadNextString(r)
 		if innerName == "None" {
 			break
 		}
-		innerDataType := readNextString(r)
-		readNextBytes(r, 8) // Skip length in int64
+		innerDataType := utils.ReadNextString(r)
+		utils.ReadNextBytes(r, 8) // Skip length in int64
 		property := properties(propertyType(innerDataType))
 		fields[innerName] = property(r)
 	}
@@ -125,22 +127,22 @@ func propertyStructArray(r io.ReadSeeker) interface{} {
 }
 
 func propertyArray(r io.ReadSeeker) interface{} {
-	arrayType := readNextString(r)
-	readNextBytes(r, 1)
+	arrayType := utils.ReadNextString(r)
+	utils.ReadNextBytes(r, 1)
 
-	numElements := readNextInt32(r)
+	numElements := utils.ReadNextInt32(r)
 	switch propertyType(arrayType) {
 	case structProperty:
-		readNextString(r) // Skip array name
-		dataType := readNextString(r)
-		readNextBytes(r, 8) // Skip length in int64
+		utils.ReadNextString(r) // Skip array name
+		dataType := utils.ReadNextString(r)
+		utils.ReadNextBytes(r, 8) // Skip length in int64
 
 		properties := []interface{}{}
 
 		switch propertyType(dataType) {
 		case structProperty:
-			innerType := readNextString(r)
-			readNextBytes(r, 17) // Skip 16-byte empty GUID + 1-byte termination
+			innerType := utils.ReadNextString(r)
+			utils.ReadNextBytes(r, 17) // Skip 16-byte empty GUID + 1-byte termination
 			for i := 0; i < int(numElements); i++ {
 				switch propertyType(innerType) {
 				case guidProperty:
@@ -157,13 +159,13 @@ func propertyArray(r io.ReadSeeker) interface{} {
 	case intProperty:
 		properties := []int32{}
 		for i := 0; i < int(numElements); i++ {
-			properties = append(properties, readNextInt32(r))
+			properties = append(properties, utils.ReadNextInt32(r))
 		}
 		return properties
 	case objectProperty:
 		properties := []string{}
 		for i := 0; i < int(numElements); i++ {
-			properties = append(properties, readNextString(r))
+			properties = append(properties, utils.ReadNextString(r))
 		}
 		return properties
 	default:
@@ -173,21 +175,21 @@ func propertyArray(r io.ReadSeeker) interface{} {
 }
 
 func propertyBool(r io.ReadSeeker) interface{} {
-	readNextBytes(r, 1)
-	return readNextBool(r)
+	utils.ReadNextBytes(r, 1)
+	return utils.ReadNextBool(r)
 }
 
 func propertyMulticastInlineDelegate(r io.ReadSeeker) interface{} {
-	readNextBytes(r, 5)
-	objectPath := readNextString(r)
-	functionName := readNextString(r)
+	utils.ReadNextBytes(r, 5)
+	objectPath := utils.ReadNextString(r)
+	functionName := utils.ReadNextString(r)
 	return struct{ ObjectPath, FunctionName string }{objectPath, functionName}
 }
 
 func propertySet(r io.ReadSeeker) interface{} {
-	dataType := readNextString(r)
-	readNextBytes(r, 5)
-	numElements := readNextInt32(r)
+	dataType := utils.ReadNextString(r)
+	utils.ReadNextBytes(r, 5)
+	numElements := utils.ReadNextInt32(r)
 	properties := []interface{}{}
 	for i := 0; i < int(numElements); i++ {
 		switch propertyType(dataType) {
@@ -202,11 +204,11 @@ func propertySet(r io.ReadSeeker) interface{} {
 }
 
 func propertyMap(r io.ReadSeeker) interface{} {
-	keyType := readNextString(r)
-	valueType := readNextString(r)
+	keyType := utils.ReadNextString(r)
+	valueType := utils.ReadNextString(r)
 
-	readNextBytes(r, 5)
-	numElements := readNextInt32(r)
+	utils.ReadNextBytes(r, 5)
+	numElements := utils.ReadNextInt32(r)
 	properties := map[string]interface{}{}
 	for i := 0; i < int(numElements); i++ {
 		var key string
@@ -216,7 +218,7 @@ func propertyMap(r io.ReadSeeker) interface{} {
 		case structProperty:
 			key = propertyGUID(r).(string)
 		case intProperty:
-			key = strconv.Itoa(int(readNextInt32(r)))
+			key = strconv.Itoa(int(utils.ReadNextInt32(r)))
 		default:
 			log.Fatalf("Unsupported map key type: %s", keyType)
 		}
@@ -225,11 +227,11 @@ func propertyMap(r io.ReadSeeker) interface{} {
 		case structProperty:
 			value = propertyStructArray(r)
 		case intProperty:
-			value = readNextInt32(r)
+			value = utils.ReadNextInt32(r)
 		case floatProperty:
-			value = readNextFloat32(r)
+			value = utils.ReadNextFloat32(r)
 		case boolProperty:
-			value = readNextBool(r)
+			value = utils.ReadNextBool(r)
 		default:
 			log.Fatalf("Unsupported map value type: %s", valueType)
 		}
@@ -240,6 +242,6 @@ func propertyMap(r io.ReadSeeker) interface{} {
 }
 
 func propertyStr(r io.ReadSeeker) interface{} {
-	readNextBytes(r, 1)
-	return readNextString(r)
+	utils.ReadNextBytes(r, 1)
+	return utils.ReadNextString(r)
 }
