@@ -4,6 +4,10 @@
 
 In progress tool to decompile save from game Deep Rock Galactic
 
+# New version
+
+I've move from this CLI and built an web version, check it out! https://github.com/MrMarble/drg-editor
+
 
 ## Usage
 
